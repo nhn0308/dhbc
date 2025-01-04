@@ -1,0 +1,4 @@
+export const SCREEB_NAME = {
+  START: 'START_SCREEN',
+  QUESTION: 'QUESTION_SCREEN',
+};
